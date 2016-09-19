@@ -1,6 +1,6 @@
 # babel-webpack-stater
 
-A basic starter project with Babel and Webpack for ES6.
+A basic starter project for ES6 with Babel and Webpack.
 
 ## Quick Start
 
@@ -24,5 +24,9 @@ Open [http://localhost:8080](http://localhost:8080)
 # Build with Webpack
 $ npm run build
 ```
+
+## License
+
+[MIT](https://github.com/bornbit/babel-webpack-starter/blob/master/LICENSE) License
 
 
